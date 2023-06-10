@@ -1,6 +1,6 @@
 $(document).ready(function() {
-  const apiRoot = 'https://kodilla-task.gaben5.repl.co';
-  const trelloApiRoot = 'https://kodilla-task.gaben5.repl.co/v1/tasks';
+  const apiRoot = 'https://gaben5.github.io';
+  const trelloApiRoot = 'https://gaben5.github.io/v1/tasks';
   const datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
   const $tasksContainer = $('[data-tasks-container]');
 
